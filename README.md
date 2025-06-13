@@ -107,16 +107,6 @@ Solution complète de partage de fichiers avec authentification robuste et permi
 Application web moderne d'interaction avec modèles d'IA locaux via l'API Ollama.
 **Tech :** Web Components, JavaScript, CSS3
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sfedor2020&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sfedor2020&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
 ## 🌐 Me Contacter
 
 <p align="center">
