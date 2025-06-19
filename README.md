@@ -67,20 +67,28 @@ Esprit d'équipe • Adaptabilité • Curiosité et volonté d'apprendre • R�
 ## 🚀 Projets Phares
 
 ### 🎯 Daily Time Visualiser
-Application web de planification quotidienne avec interface glass-morphism, 9 thèmes animés et algorithmes de calcul intelligent.
-**Tech :** HTML5, Tailwind CSS, JavaScript ES6, SortableJS.
+Application web sophistiquée de planification quotidienne avec interface glass-morphism et 9 thèmes animés. Fonctionnalités avancées : 4 modes de densité timeline, algorithmes de calcul intelligent, et système d'export/import.
+**Tech :** HTML5, Tailwind CSS, JavaScript ES6, SortableJS, Glass-morphism.
 
 ### 📁 Gestionnaire de Fichiers Sécurisé
-Application web PHP sécurisée de partage de fichiers avec authentification robuste, permissions granulaires et interface moderne.
+Application web PHP sécurisée permettant aux utilisateurs de partager et gérer leurs fichiers. Elle offre un système d'authentification robuste et des permissions granulaires.
 **Tech :** PHP, MySQL, JavaScript, Tailwind CSS.
 
 ### 🤖 Interface Chat IA
-Interface de chat exploitant JavaScript et Web Components pour communiquer avec des modèles d'IA locaux via l'API Ollama.
+Interface de chat intelligente développée comme projet scolaire, exploitant JavaScript vanilla et les Web Components pour communiquer avec des modèles d'IA locaux via l'API Ollama.
 **Tech :** JavaScript, Python, Flask, Web Components, API Ollama.
 
+### 💡 DevInsight : Plateforme d'Apprentissage
+DevInsight transforme des notes Markdown et des quiz générés par IA en une plateforme d'apprentissage interactive pour réviser et tester sa compréhension.
+**Tech :** React, TypeScript, Vite, Tailwind CSS, Markdown.
+
 ### 🎬 Téléchargeur de Vidéos Desktop
-Application desktop (Electron/React) pour télécharger des vidéos YouTube, avec un backend Python utilisant yt-dlp.
+Application desktop moderne pour télécharger des vidéos et playlists YouTube, développée avec Electron, React et TypeScript pour l'interface, et un backend Python.
 **Tech :** Electron, React, TypeScript, Python, yt-dlp.
+
+### 🎨 Portfolio Personnel V2
+Refonte complète de mon portfolio avec architecture Gatsby avancée, composants React sophistiqués, et transition vers une infrastructure Docker avec CI/CD.
+**Tech :** GatsbyJS, React, SCSS, GraphQL, Docker.
 
 ## 🌐 Me Contacter
 
